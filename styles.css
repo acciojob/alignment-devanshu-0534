@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+heading {
+	text-align: center;
+}
+
+ #table-3 {
+	width: 800px;
+	height: 100px;
+	border: 1px solid black;
+	border-spacing: 1px;
+	padding:1px;
+}
+
+.center{
+	text-align: center;
+}
+
+.right{
+	text-align: right;
+}
+
+#t-image{
+	align-content: center;
+}
+
+
+
+
